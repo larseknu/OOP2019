@@ -3,7 +3,7 @@
 * Representerer en student
 */
 public class Student {
-  // Medlemsvariabler (fields)
+  // Instansvariabler (medlemsvariabler)
   public String fornavn;
   public String etternavn;
   public int alder;

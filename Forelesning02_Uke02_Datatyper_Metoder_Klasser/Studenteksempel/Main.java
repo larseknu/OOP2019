@@ -9,7 +9,7 @@ public class Main {
     // Opprettet og instansierer et objekt (nikolaTesla) av klassen Student
     Student nikolaTesla = new Student();
 
-    // Setter verdier på objektets "Medlemsvariabler" (felter)
+    // Setter verdier på objektets "Instansvariabler"
     nikolaTesla.fornavn = "Nikola";
     nikolaTesla.etternavn = "Tesla";
     nikolaTesla.alder = 86;
