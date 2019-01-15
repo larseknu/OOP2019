@@ -7,7 +7,7 @@ public class Main {
   */
   public static void main(String[] args) {
     // Opprettet og instansierer et objekt (nikolaTesla) av klassen Student
-    Student nikolaTesla = new Student("Nikola", "Tesla");
+    Student nikolaTesla = new Student("Nikola", "Tesla", "0101200133733");
 
     // Setter verdier på objektets resterende "instansvariabler"
     nikolaTesla.setAlder(86);

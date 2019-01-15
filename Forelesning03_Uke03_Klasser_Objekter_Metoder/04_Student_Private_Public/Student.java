@@ -8,6 +8,7 @@ public class Student {
   private String etternavn;
   private int alder;
   private String studentId;
+  private String fodselsNummer;
   /* String variablene kunne også vært deklarert slik:
   private String fornavn, etternavn, studentId; */
 
@@ -19,20 +20,22 @@ public class Student {
 
   /**
   * Konstruktør for klassen student
-  * Gir mulighet til å sette fornavn og etternavn
+  * Gir mulighet til å sette fornavn, etternavn og fodselsnummer
   */
-  public Student(String fornavn, String etternavn) {
+  public Student(String fornavn, String etternavn, String fodselsNummer) {
     this.fornavn = fornavn;
     this.etternavn = etternavn;
+    this.fodselsNummer = fodselsNummer;
   }
 
   /**
   * Kunstruktør for klassen Student
-  * Gir mulighet til å sette fornavn, etternavn, alder og studentId
+  * Gir mulighet til å sette fornavn, etternavn, fodselsnummer, alder og studentId
   */
-  public Student(String fornavn, String etternavn, int alder, String studentId) {
+  public Student(String fornavn, String etternavn, String fodselsNummer, int alder, String studentId) {
     this.fornavn = fornavn;
     this.etternavn = etternavn;
+    this.fodselsNummer = fodselsNummer;
     this.alder = alder;
     this.studentId = studentId;
   }
@@ -46,6 +49,14 @@ public class Student {
 
   public String getEtternavn() {
     return etternavn;
+  }
+
+  /**
+  * Metode for å hente ut en students fodselsnummer
+  * Vi har ingen set-metode for fodselsnummer, så denne kan ikke endres i ettertid
+  */
+  public String getFodselsnummer() {
+    return fodselsNummer;
   }
 
   public int getAlder() {
