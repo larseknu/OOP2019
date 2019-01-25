@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Figur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Kvadrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Rektangel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Sirkel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Forelesning05_Uke04_Arv/03_Fly_Transportfly_toString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Forelesning05_Uke04_Arv/03_Fly_Transportfly_toString/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Figur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Figur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Kvadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Kvadrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Rektangel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Rektangel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Sirkel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Sirkel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,9 +22,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="637">
-              <caret line="117" column="41" selection-start-line="117" selection-start-column="41" selection-end-line="117" selection-end-column="41" />
+            <state relative-caret-position="506">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
               <folding>
+                <element signature="e#4780#4781#0" expanded="true" />
                 <element signature="e#4834#4835#0" expanded="true" />
               </folding>
             </state>
@@ -32,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Kvadrat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+            <state relative-caret-position="66">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -41,15 +44,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Sirkel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            <state relative-caret-position="66">
+              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
               <folding>
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
                 <element signature="e#305#306#0" expanded="true" />
                 <element signature="e#348#349#0" expanded="true" />
                 <element signature="e#394#395#0" expanded="true" />
                 <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,8 +63,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Figur.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="3" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,11 +78,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Rektangel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="3" />
               <folding>
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,8 +109,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Figur.java" />
         <option value="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Rektangel.java" />
-        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Kvadrat.java" />
         <option value="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Sirkel.java" />
+        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Kvadrat.java" />
         <option value="$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Main.java" />
       </list>
     </option>
@@ -112,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -136,6 +150,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -185,10 +200,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-367" width="2560" height="1361" extended-state="6" />
+    <frame x="1680" y="-367" width="2560" height="1361" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16373098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16573259" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -196,7 +211,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290008" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290008" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -214,51 +229,64 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Kvadrat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Figur.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Rektangel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="3" />
           <folding>
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Kvadrat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Sirkel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="66">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
           <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
             <element signature="e#305#306#0" expanded="true" />
             <element signature="e#348#349#0" expanded="true" />
             <element signature="e#394#395#0" expanded="true" />
             <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/figurarv/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="117" column="41" selection-start-line="117" selection-start-column="41" selection-end-line="117" selection-end-column="41" />
+        <state relative-caret-position="506">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
           <folding>
+            <element signature="e#4780#4781#0" expanded="true" />
             <element signature="e#4834#4835#0" expanded="true" />
           </folding>
         </state>
