@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25ae2b94-7b98-4c78-9877-79f3c225409d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Ansatt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Oblig2_Losningsforslag/Oblig2_Losningsforslad_Uten_Kommentarer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oblig2_Losningsforslag/Oblig2_Losningsforslad_Uten_Kommentarer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/01_Fly_StaticVariabel/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/01_Fly_StaticVariabel/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/01_Fly_StaticVariabel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/01_Fly_StaticVariabel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/01_Fly_StaticVariabel/src/no/hiof/larseknu/flyoversikt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/01_Fly_StaticVariabel/src/no/hiof/larseknu/flyoversikt/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/03_Studentprosjekt_Static/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/03_Studentprosjekt_Static/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="660">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -27,20 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="154">
               <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-              <folding>
-                <element signature="e#563#564#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#677#678#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#795#796#0" expanded="true" />
-                <element signature="e#837#838#0" expanded="true" />
-                <element signature="e#883#884#0" expanded="true" />
-                <element signature="e#931#932#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -48,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-143">
+            <state relative-caret-position="572">
               <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
             </state>
           </provider>
@@ -57,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Ansatt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="242">
               <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
@@ -91,10 +81,10 @@
         <option value="$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekttest/Student.java" />
         <option value="$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekttest/Main.java" />
         <option value="$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Kurs.java" />
-        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Main.java" />
         <option value="$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Person.java" />
         <option value="$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Student.java" />
         <option value="$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Ansatt.java" />
+        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Main.java" />
       </list>
     </option>
   </component>
@@ -105,9 +95,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="27" />
-    <option name="width" value="1920" />
-    <option name="height" value="1112" />
+    <option name="x" value="1680" />
+    <option name="y" value="-367" />
+    <option name="width" value="2560" />
+    <option name="height" value="1360" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -115,7 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -154,6 +144,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -259,9 +250,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="1680" y="-367" width="2560" height="1360" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26868045" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17734188" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -271,7 +263,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30553392" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30487806" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -297,50 +289,38 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Kurs.java">
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="41" />
+        <state relative-caret-position="660">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="154">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143">
+        <state relative-caret-position="572">
           <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Ansatt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="242">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/studentprosjekt/Kurs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state>
+          <caret selection-end-column="41" />
         </state>
       </provider>
     </entry>
