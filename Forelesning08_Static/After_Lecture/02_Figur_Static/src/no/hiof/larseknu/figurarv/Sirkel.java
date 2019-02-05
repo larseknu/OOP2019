@@ -20,7 +20,7 @@ public class Sirkel extends Figur {
      */
     @Override
     public double areal() {
-        return Math.PI + radius + radius;
+        return Math.PI * radius * radius;
     }
 
     /**

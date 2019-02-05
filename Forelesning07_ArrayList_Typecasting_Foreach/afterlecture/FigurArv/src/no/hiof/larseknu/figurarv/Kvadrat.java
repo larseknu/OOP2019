@@ -24,8 +24,3 @@ public class Kvadrat extends Rektangel {
         return "Kvadrat med side " + side;
     }
 }
-
-
-public class Person {
-    protected String fornavn;
-}

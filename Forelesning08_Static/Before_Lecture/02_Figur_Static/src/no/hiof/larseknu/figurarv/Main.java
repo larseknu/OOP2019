@@ -11,6 +11,8 @@ public class Main {
         // Oppretter og instansierer et sirkelobjekt
         Sirkel sirkelen = new Sirkel(3);
 
+        System.out.println(sirkelen.areal() + " " + sirkelen.omkrets());
+
 
         // Skriver ut en linje med * for å skille på utskriftene i terminalen
         System.out.println("\n*************Hvilken er størst?************");
