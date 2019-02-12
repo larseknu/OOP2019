@@ -3,12 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0ecbba2d-3651-4b13-9ca4-53169174a796" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../Forelesning10_Interface/After_Lecture/05_Formaterer_AnonClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Forelesning10_Interface/After_Lecture/05_Formaterer_AnonClass/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bursdager_mars.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyrepark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyrepark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/SortereDyrPaaFodselsdato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Dyrepark_Final/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Final/bursdager_mars.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Dyr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Dyr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Dyrepark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Dyrepark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/SortereDyrPaaFodselsdato.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/.idea/misc.xml" beforeDir="false" />
@@ -38,11 +38,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="29" selection-end-column="130" />
+            <state relative-caret-position="835">
+              <caret line="59" column="37" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="59" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/SortereDyrPaaFodselsdato.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -74,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <state relative-caret-position="770">
+              <caret line="49" column="89" selection-start-line="49" selection-start-column="89" selection-end-line="49" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -83,11 +92,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyrepark.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="22">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -95,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/HonningGrevling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+            <state relative-caret-position="110">
+              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -126,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1680" />
     <option name="y" value="-367" />
     <option name="width" value="2560" />
@@ -159,23 +165,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="01_Dyrepark_Final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01_Dyrepark_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Dyrepark_AnonClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02_Dyrepark_AnonClass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="01_Dyrepark_Final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01_Dyrepark_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Dyrepark_AnonClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02_Dyrepark_AnonClass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="01_Dyrepark_Final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01_Dyrepark_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Dyrepark_AnonClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02_Dyrepark_AnonClass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dyrepark" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="01_Dyrepark_Final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -238,17 +240,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-367" width="2560" height="1361" extended-state="0" />
-    <editor active="true" />
+    <frame x="1680" y="-367" width="2560" height="1361" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19255404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19055244" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32981315" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24126726" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -257,7 +258,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32944834" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290008" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -286,17 +287,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bursdager_mars.txt" />
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/SortereDyrPaaFodselsdato.java" />
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="29" selection-end-column="130" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/bursdager_mars.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Panda.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -320,25 +312,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyrepark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="770">
+          <caret line="49" column="89" selection-start-line="49" selection-start-column="89" selection-end-line="49" selection-end-column="89" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/HonningGrevling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+        <state relative-caret-position="110">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/SortereDyrPaaFodselsdato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyrepark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" selection-start-line="20" selection-end-line="29" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="59" column="37" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="59" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

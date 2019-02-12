@@ -2,7 +2,7 @@ package no.hiof.larseknu.dyrepark;
 
 import java.time.LocalDate;
 
-public abstract class Dyr {
+public abstract class Dyr implements Comparable<Dyr> {
     private final int id;
     private String navn;
     private LocalDate fodselsDato;
@@ -44,6 +44,14 @@ public abstract class Dyr {
 
     public static int getAntallDyr() {
         return dyreTeller;
+    }
+
+    /**
+     * Overrider compareTo fra Comparable interfacet, slik at vi får en standardsortering
+     */
+    @Override
+    public int compareTo(Dyr annetDyr) {
+        return this.id - annetDyr.getId();
     }
 
     @Override

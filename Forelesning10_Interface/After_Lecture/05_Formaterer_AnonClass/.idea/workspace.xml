@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2435aaaa-5d81-4492-953b-03e24643afc2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../01_Figur_Interface_Egen/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_Figur_Interface_Egen/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Figur_Interface_Egen/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_Figur_Interface_Egen/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Figur_Interface_Egen/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_Figur_Interface_Egen/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Figur_Interface_Egen/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_Figur_Interface_Egen/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_Figur_Interface_Egen/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Figur_Interface_Egen/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_Figur_Interface_Egen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Figur_Interface_Egen/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_Figur_Interface_Java/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_Figur_Interface_Java/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Figur_Interface_Java/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_Figur_Interface_Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Figur_Interface_Java/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_Figur_Interface_Java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Figur_Interface_Java/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_Figur_Interface_Java/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_Figur_Interface_Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Figur_Interface_Java/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_Figur_Interface_Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Figur_Interface_Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_Figur_Interface_Java/Forelesning07_Uke05_Figur_Static.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/formaterer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/formaterer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/01_Figur_Interface_Egen/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/01_Figur_Interface_Egen/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/01_Figur_Interface_Egen/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/01_Figur_Interface_Egen/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/01_Figur_Interface_Egen/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/01_Figur_Interface_Egen/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/01_Figur_Interface_Egen/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/01_Figur_Interface_Egen/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/01_Figur_Interface_Egen/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/01_Figur_Interface_Egen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/01_Figur_Interface_Egen/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/02_Figur_Interface_Java/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/02_Figur_Interface_Java/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/02_Figur_Interface_Java/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/02_Figur_Interface_Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/02_Figur_Interface_Java/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/02_Figur_Interface_Java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/02_Figur_Interface_Java/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/02_Figur_Interface_Java/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/02_Figur_Interface_Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/02_Figur_Interface_Java/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/02_Figur_Interface_Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/02_Figur_Interface_Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/04_Figur_Interface_Final/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/04_Figur_Interface_Final/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/04_Figur_Interface_Final/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/04_Figur_Interface_Final/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/04_Figur_Interface_Final/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/04_Figur_Interface_Final/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/04_Figur_Interface_Final/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/04_Figur_Interface_Final/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/04_Figur_Interface_Final/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/04_Figur_Interface_Final/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/04_Figur_Interface_Final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/04_Figur_Interface_Final/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/formaterer/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+            <state relative-caret-position="110">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -71,7 +34,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/formaterer/StorTekstFormaterer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="88">
               <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
               <folding>
                 <element signature="e#172#173#0" expanded="true" />
@@ -139,9 +102,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="x" value="1680" />
+    <option name="y" value="-367" />
+    <option name="width" value="2560" />
+    <option name="height" value="1360" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -172,22 +136,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="03_Formaterer_Interface" type="58d84e3e:PackageViewProjectNode" />
-              <item name="03_Formaterer_Interface" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="03_Formaterer_Interface" type="58d84e3e:PackageViewProjectNode" />
-              <item name="03_Formaterer_Interface" type="616d4139:PackageViewModuleNode" />
-              <item name="no.hiof.larseknu.formaterer" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,10 +189,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="1680" y="-367" width="2560" height="1360" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25896168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17093675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -273,8 +222,8 @@
     <entry file="jrt://C:/Program Files/Java/jdk-11.0.2!/java.base/java/lang/StringBuilder.class" />
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/formaterer/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        <state relative-caret-position="110">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -287,7 +236,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/formaterer/StorTekstFormaterer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="88">
           <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
           <folding>
             <element signature="e#172#173#0" expanded="true" />

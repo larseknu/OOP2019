@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae0e3f4b-2ed0-4fbf-b78c-488ca4e671d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Forelesning10_Interface/After_Lecture/05_Formaterer_AnonClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Forelesning10_Interface/After_Lecture/05_Formaterer_AnonClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/After_Lecture/01_Dyrepark_Final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/After_Lecture/01_Dyrepark_Final/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/After_Lecture/01_Dyrepark_Final/bursdager_mars.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/After_Lecture/01_Dyrepark_Final/bursdager_mars.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/After_Lecture/01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Dyr.java" beforeDir="false" afterPath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/After_Lecture/01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Dyr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/After_Lecture/01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Dyrepark.java" beforeDir="false" afterPath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/After_Lecture/01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Dyrepark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/After_Lecture/01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/After_Lecture/01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/Bursdager_Januar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/DyreHage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/OutFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/src/no/hiof/larseknu/dyrehage/Dyr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/src/no/hiof/larseknu/dyrehage/Dyrepark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/src/no/hiof/larseknu/dyrehage/HonningGrevling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/src/no/hiof/larseknu/dyrehage/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forelesning11_Abstract_Final_Exception/DyreHage_Final/src/no/hiof/larseknu/dyrehage/Sjimpanse.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1680" />
+    <option name="y" value="-367" />
+    <option name="width" value="2560" />
+    <option name="height" value="1361" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae0e3f4b-2ed0-4fbf-b78c-488ca4e671d4" name="Default Changelist" comment="" />
+      <created>1549967187307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549967187307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="-367" width="2560" height="1361" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979983" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
