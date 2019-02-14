@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ecbba2d-3651-4b13-9ca4-53169174a796" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Forelesning10_Interface/After_Lecture/05_Formaterer_AnonClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Forelesning10_Interface/After_Lecture/05_Formaterer_AnonClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Dyrepark_Final/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Final/bursdager_mars.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Dyr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Dyr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Dyrepark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Dyrepark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/SortereDyrPaaFodselsdato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/Bursdager_Januar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/DyreHage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/OutFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/src/no/hiof/larseknu/dyrehage/Dyr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/src/no/hiof/larseknu/dyrehage/Dyrepark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/src/no/hiof/larseknu/dyrehage/HonningGrevling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/src/no/hiof/larseknu/dyrehage/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DyreHage_Final/src/no/hiof/larseknu/dyrehage/Sjimpanse.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="835">
+              <caret line="59" column="37" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="59" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/SortereDyrPaaFodselsdato.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Panda.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Sjimpanse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+              <folding>
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="770">
+              <caret line="49" column="89" selection-start-line="49" selection-start-column="89" selection-end-line="49" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyrepark.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/HonningGrevling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Panda.java" />
+        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/HonningGrevling.java" />
+        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Sjimpanse.java" />
+        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/SortereDyrPaaFodselsdato.java" />
+        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyr.java" />
+        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyrepark.java" />
+        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1680" />
+    <option name="y" value="-367" />
+    <option name="width" value="2560" />
+    <option name="height" value="1361" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="01_Dyrepark_Final" type="58d84e3e:PackageViewProjectNode" />
+              <item name="01_Dyrepark_Final" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="01_Dyrepark_Final" type="58d84e3e:PackageViewProjectNode" />
+              <item name="01_Dyrepark_Final" type="616d4139:PackageViewModuleNode" />
+              <item name="no.hiof.larseknu.dyrepark" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="02_Dyrepark_AnonClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02_Dyrepark_AnonClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02_Dyrepark_AnonClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02_Dyrepark_AnonClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02_Dyrepark_AnonClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02_Dyrepark_AnonClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dyrepark" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.dyrepark.Main" />
+      <module name="01_Dyrepark_Final" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ecbba2d-3651-4b13-9ca4-53169174a796" name="Default Changelist" comment="" />
+      <created>1549878489212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549878489212</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="-367" width="2560" height="1361" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19055244" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32981315" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24126726" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290008" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/bursdager_mars.txt" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/time/chrono/ChronoLocalDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="671" column="17" selection-start-line="671" selection-start-column="17" selection-end-line="671" selection-end-column="17" />
+          <folding>
+            <element signature="e#30320#30321#0" expanded="true" />
+            <element signature="e#30361#30362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/time/LocalDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39776">
+          <caret line="1952" column="22" selection-start-line="1952" selection-start-column="22" selection-end-line="1952" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursdager_mars.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Panda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Sjimpanse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="49" column="89" selection-start-line="49" selection-start-column="89" selection-end-line="49" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/HonningGrevling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/SortereDyrPaaFodselsdato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Dyrepark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../01_Dyrepark_Final/src/no/hiof/larseknu/dyrepark/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" selection-start-line="20" selection-end-line="29" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/dyrepark/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="59" column="37" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="59" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
