@@ -4,8 +4,9 @@
     <list default="true" id="93e0a8e4-f03b-4d90-9211-7f8feefa8f6d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../Forelesning11_Abstract_Final_Exception/After_Lecture/03_Dyrepark_Exception/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Forelesning11_Abstract_Final_Exception/After_Lecture/03_Dyrepark_Exception/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Exception/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Dyrepark_Exception/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ListeTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ListeTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/hashmaptest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/hashmaptest/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../04_QueueTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_QueueTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Before_Lecture/01_Dyrepark_Exception/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Before_Lecture/01_Dyrepark_Exception/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/hashmaptest/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="594">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,9 +53,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,17 +108,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-367" width="2560" height="1360" extended-state="6" />
+    <frame x="1680" y="-367" width="2560" height="1361" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13931145" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14091273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Learn" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969603" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290008" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -137,8 +139,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/hashmaptest/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="594">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

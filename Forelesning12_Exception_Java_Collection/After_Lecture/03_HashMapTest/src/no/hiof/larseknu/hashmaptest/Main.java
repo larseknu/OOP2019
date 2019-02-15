@@ -25,8 +25,8 @@ public class Main {
         // verdien til en nøkkel
         System.out.println("Vi henter her verdien til nøkkelen \"0\": " + maanedsOversikt.get(0));
 
-        for(Map.Entry<Integer,String> set: maanedsOversikt.entrySet()) {
-            System.out.println(set.getKey() + " tilsvarer måneden: " + set.getValue());
+        for(Integer key : maanedsOversikt.keySet()) {
+            System.out.println(key + " tilsvarer måneden: " + maanedsOversikt.get(key));
         }
     }
 }
