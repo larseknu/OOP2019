@@ -40,26 +40,8 @@ public class Main {
         Collections.sort(dyrIParken);
         printUtDyrIListe(dyrIParken);
 
-        // Sortering på fødselsdato
-        System.out.println("*************Sortert på fødselsdato***************");
-        // Sorterer med vår egen klasse som implementerer Comparator for sortering
-        Collections.sort(dyrIParken, new SortereDyrPaaFodselsdato());
-        printUtDyrIListe(dyrIParken);
-
-        // Sortering på navn
-        System.out.println("*************Sortert på navn***************");
-        // Lager egen anonym indre klasse av Comparator, for å kunne lage en egen sortering på navn
-        Collections.sort(dyrIParken, new Comparator<Dyr>() {
-            @Override
-            public int compare(Dyr dyr1, Dyr dyr2) {
-                return dyr1.getNavn().compareTo(dyr2.getNavn());
-            }
-        });
-
-        printUtDyrIListe(dyrIParken);
-
         // Skriver ut alle bursdager i mars
-        kristiansandDyrepark.skrivAlleBursdagerForMaanedTilFil(4, "bursdager_mars.txt");
+        kristiansandDyrepark.skrivAlleBursdagerForMaanedTilFil(3, "bursdager_mars.txt");
     }
 
     private static void printUtDyrIListe(ArrayList<Dyr> dyreListe) {
