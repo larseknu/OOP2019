@@ -1,0 +1,14 @@
+[
+  {
+    "navn": "Batman",
+    "alterEgo": "Bruce Wayne"
+  },
+  {
+    "navn": "The Hulk",
+    "alterEgo": "Bruce Banner"
+  },
+  {
+    "navn": "Superman",
+    "alterEgo": "Clark Kent"
+  }
+]
