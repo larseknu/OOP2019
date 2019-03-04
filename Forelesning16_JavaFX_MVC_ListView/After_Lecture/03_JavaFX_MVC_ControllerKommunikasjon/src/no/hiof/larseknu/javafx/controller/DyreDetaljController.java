@@ -57,7 +57,9 @@ public class DyreDetaljController {
     public void gaaTilListeVisning(ActionEvent actionEvent) {
         Main minApplikasjon = Main.getInstance();
 
-        Dyr valgtDyr = minApplikasjon.velgFraListe();
+        Dyr dyrSomVisesNaa = dyreListe.get(valgtDyrIndex);
+
+        Dyr valgtDyr = minApplikasjon.velgFraListe(dyrSomVisesNaa);
 
         fyllUtDyreInfo(valgtDyr);
 

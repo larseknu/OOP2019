@@ -51,4 +51,8 @@ public class DyreListeController{
     public Dyr getValgtDyr() {
         return valgtDyr;
     }
+
+    public void setInitieltValgtDyr(Dyr dyrSomVisesNaa) {
+        dyreListe.getSelectionModel().select(dyrSomVisesNaa);
+    }
 }

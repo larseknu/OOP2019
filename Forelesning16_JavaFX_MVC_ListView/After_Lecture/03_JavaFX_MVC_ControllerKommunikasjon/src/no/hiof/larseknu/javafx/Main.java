@@ -48,7 +48,7 @@ public class Main extends Application {
         }
     }
 
-    public Dyr velgFraListe() {
+    public Dyr velgFraListe(Dyr dyrSomVisesNaa) {
         try {
             FXMLLoader fxmlInnlaster = new FXMLLoader();
             fxmlInnlaster.setLocation(getClass().getResource("view/DyreListe.fxml"));
@@ -57,6 +57,8 @@ public class Main extends Application {
             Scene hovedScene = new Scene(hovedLayout);
 
             DyreListeController dyreListeController = fxmlInnlaster.getController();
+
+            dyreListeController.setInitieltValgtDyr(dyrSomVisesNaa);
 
             Stage nyListeStage = new Stage();
 
