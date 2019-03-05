@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="838fda8b-d387-47dd-b8ea-704ff151db41" name="Default Changelist" comment="" />
+    <list default="true" id="838fda8b-d387-47dd-b8ea-704ff151db41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Forelesning16_JavaFX_MVC_ListView/After_Lecture/01_JavaFX_MVC_ListView/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Forelesning16_JavaFX_MVC_ListView/After_Lecture/01_JavaFX_MVC_ListView/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Forelesning16_JavaFX_MVC_ListView/After_Lecture/01_JavaFX_MVC_ListView/src/no/hiof/larseknu/javafx/controller/DyreListeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Forelesning16_JavaFX_MVC_ListView/After_Lecture/01_JavaFX_MVC_ListView/src/no/hiof/larseknu/javafx/controller/DyreListeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Forelesning16_JavaFX_MVC_ListView/After_Lecture/03_JavaFX_MVC_ControllerKommunikasjon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Forelesning16_JavaFX_MVC_ListView/After_Lecture/03_JavaFX_MVC_ControllerKommunikasjon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_FlatFilSkriving/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_FlatFilSkriving/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_CSVSkriving/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_CSVSkriving/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/jsonskriving/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="925">
-              <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+            <state relative-caret-position="947">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,7 +34,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/jsonskriving/model/Superhelt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
+            <state relative-caret-position="462">
               <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding>
                 <element signature="e#274#275#0" expanded="true" />
@@ -67,10 +75,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="334" />
-    <option name="y" value="-26" />
-    <option name="width" value="1612" />
-    <option name="height" value="876" />
+    <option name="x" value="1680" />
+    <option name="y" value="-367" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -78,34 +86,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="03_JSON_Skriving" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_JSON_Skriving" type="462c0819:PsiDirectoryNode" />
+              <item name="03_JSONSkriving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_JSONSkriving" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="03_JSON_Skriving" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_JSON_Skriving" type="462c0819:PsiDirectoryNode" />
+              <item name="03_JSONSkriving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_JSONSkriving" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="03_JSON_Skriving" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_JSON_Skriving" type="462c0819:PsiDirectoryNode" />
+              <item name="03_JSONSkriving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_JSONSkriving" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jsonskriving" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="03_JSONSkriving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/gson-2.8.5.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -157,9 +169,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="1680" y="-367" width="2560" height="1417" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.111646585" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11289031" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -168,7 +181,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32867134" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -192,16 +205,27 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/jsonskriving/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/jsonskriving/Test.java" />
+    <entry file="file://$PROJECT_DIR$/superhelter.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="100">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/jsonskriving/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="947">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/jsonskriving/model/Superhelt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
+        <state relative-caret-position="462">
           <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding>
             <element signature="e#274#275#0" expanded="true" />
@@ -214,23 +238,6 @@
             <element signature="e#527#528#0" expanded="true" />
             <element signature="e#573#574#0" expanded="true" />
             <element signature="e#600#601#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/superhelter.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/jsonskriving/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
