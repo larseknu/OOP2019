@@ -63,4 +63,11 @@ public class DyreListeController{
     public Dyr getValgtDyr() {
         return valgtDyr;
     }
+
+    // Metode for å sette et dyr i lista som valgt
+    public void setInitieltValgtDyr(Dyr initieltValgtDyr) {
+        // Setter dyret som er valgt fra det som er valgt i listen
+        dyreListe.getSelectionModel().select(initieltValgtDyr);
+
+    }
 }

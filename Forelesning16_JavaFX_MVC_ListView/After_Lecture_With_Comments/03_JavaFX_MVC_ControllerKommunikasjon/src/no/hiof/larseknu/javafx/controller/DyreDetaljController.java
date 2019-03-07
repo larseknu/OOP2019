@@ -82,8 +82,12 @@ public class DyreDetaljController {
         // Henter instansen av min applikasjon
         Main minApplikasjon = Main.getInstance();
 
+        // Henter ut dyr som vises nå
+        Dyr dyrSomVisesNaa = dyreListe.get(valgtDyrIndex);
+
         // Sier til applikasjonen at vi vil velge et dyr fra en liste, får et valgt dyr tilbake
-        Dyr valgtDyr = minApplikasjon.velgFraListe();
+        // Sender med dyret som initielt skal være valgt i lista
+        Dyr valgtDyr = minApplikasjon.velgFraListe(dyrSomVisesNaa);
 
         // Fyller ut data om valgt dyr
         fyllUtDyreInfo(valgtDyr);

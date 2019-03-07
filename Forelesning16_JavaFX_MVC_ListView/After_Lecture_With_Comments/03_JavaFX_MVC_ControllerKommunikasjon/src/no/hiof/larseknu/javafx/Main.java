@@ -63,7 +63,7 @@ public class Main extends Application {
         }
     }
 
-    public Dyr velgFraListe() {
+    public Dyr velgFraListe(Dyr dyrSomVisesNaa) {
         try {
             // Oppretter og instansierer et objekt av klassen FXMLLoader. Som vi benytter til å laste inn UI fra en .fxml fil.
             FXMLLoader fxmlInnlaster = new FXMLLoader();
@@ -75,6 +75,9 @@ public class Main extends Application {
 
             // Henter en referanse til controlleren, slik av vi kan hente valgt dyr senere
             DyreListeController dyreListeController = fxmlInnlaster.getController();
+
+            // Setter dyret som skal være valgt når vi åpner lista
+            dyreListeController.setInitieltValgtDyr(dyrSomVisesNaa);
 
             // Oppretter og instansierer scenen vi skal benytte, og setter hovedLayout(rotnoden), samt høyde og bredde
             Scene hovedScene = new Scene(hovedLayout, 400, 200);
@@ -102,31 +105,6 @@ public class Main extends Application {
         catch (IllegalStateException ise) {
             visAlertFeilmelding("Feil 41\nFant ikke grensesnittdefinisjon", ise.getMessage());
             return null;
-        }
-    }
-
-    public void gaaTilListeVisning() {
-        try {
-            // Oppretter og instansierer et objekt av klassen FXMLLoader. Som vi benytter til å laste inn UI fra en .fxml fil.
-            FXMLLoader fxmlInnlaster = new FXMLLoader();
-            // Setter lokasjonen vi skal laste inn .fxml filen fra (hvilken fil vi skal hente fra)
-            fxmlInnlaster.setLocation(getClass().getResource("view/Dyreliste.fxml"));
-            // Laster inn hovedLayoutet/rotnoden fra Dyreliste.fxml
-            Parent hovedLayout = fxmlInnlaster.load();
-
-            // Oppretter og instansierer scenen vi skal benytte, og setter hovedLayout(rotnoden), samt høyde og bredde
-            Scene hovedScene = new Scene(hovedLayout, 400, 200);
-
-            primaryStage.setScene(hovedScene);
-            primaryStage.setTitle("Dyreliste");
-        }
-        catch (IOException ioe) {
-            // Viser en alertboks med feilmeldingen vår
-            visAlertFeilmelding("I/O feil ", ioe.getMessage());
-        }
-        catch (IllegalStateException ise) {
-            // Viser en alertboks med feilmeldingen vår
-            visAlertFeilmelding("Feil 41\nFant ikke grensesnittdefinisjon", ise.getMessage());
         }
     }
 
