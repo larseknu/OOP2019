@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<AnchorPane prefHeight="261.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="no.hiof.larseknu.oblig4.controller.RedigerFilmController">
+   <children>
+      <GridPane AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="5.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="290.0" minWidth="10.0" prefWidth="134.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="456.0" minWidth="10.0" prefWidth="456.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="58.0" minHeight="10.0" prefHeight="53.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="65.0" minHeight="4.0" prefHeight="31.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="43.0" minHeight="0.0" prefHeight="31.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label text="Tittel" />
+            <Label text="Beskrivelse" GridPane.rowIndex="1" />
+            <Label text="Utgivelsesdato" GridPane.rowIndex="2" />
+            <Label text="Spilletid" GridPane.rowIndex="3" />
+            <TextField fx:id="tittelTextField" GridPane.columnIndex="1" />
+            <TextArea fx:id="beskrivelseTextArea" prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <DatePicker fx:id="utgivelsesdatoDatePicker" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <TextField fx:id="spilletidTextField" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+         </children>
+      </GridPane>
+      <HBox alignment="BOTTOM_RIGHT" layoutX="351.0" layoutY="125.0" prefHeight="40.0" prefWidth="200.0" spacing="5.0" AnchorPane.bottomAnchor="5.0" AnchorPane.rightAnchor="5.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#avbrytValgt" text="Avbryt" />
+            <Button fx:id="okButton" mnemonicParsing="false" onAction="#okValgt" text="OK" />
+         </children>
+      </HBox>
+      <Label fx:id="feilmeldingLabel" layoutX="14.0" layoutY="228.0" prefHeight="100.0" prefWidth="300.0" textFill="#c31818" wrapText="true" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="5.0" />
+   </children>
+</AnchorPane>

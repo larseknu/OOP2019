@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.Button?>
+<BorderPane prefHeight="536.0" prefWidth="838.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="no.hiof.larseknu.oblig4.controller.FilmController">
+    <center>
+        <AnchorPane prefHeight="390.0" prefWidth="308.0" BorderPane.alignment="CENTER">
+            <children>
+                <Text fx:id="tittelText" layoutX="73.0" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Tittel" AnchorPane.leftAnchor="5.0" AnchorPane.topAnchor="5.0">
+                    <font>
+                        <Font name="Book Antiqua Bold" size="29.0" />
+                    </font>
+                </Text>
+                <VBox layoutX="14.0" layoutY="216.0" prefHeight="200.0" prefWidth="455.0" spacing="5.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="50.0">
+                    <children>
+                        <Label text="Beskrivelse">
+                            <font>
+                                <Font size="18.0" />
+                            </font></Label>
+                        <TextArea fx:id="beskrivelseTextArea" editable="false" minHeight="120.0" prefHeight="120.0" prefWidth="478.0" wrapText="true">
+                            <font>
+                                <Font size="18.0" />
+                            </font></TextArea>
+                        <Label text="Utgivelsesdato">
+                            <font>
+                                <Font size="18.0" />
+                            </font></Label>
+                        <TextField fx:id="utgivelsesdatoTextField" editable="false">
+                            <font>
+                                <Font size="18.0" />
+                            </font></TextField>
+                        <Label text="Spilletid">
+                            <font>
+                                <Font size="18.0" />
+                            </font>
+                        </Label>
+                        <TextField fx:id="spilletidTextField" editable="false">
+                            <font>
+                                <Font size="18.0" />
+                            </font>
+                        </TextField>
+                    </children>
+                </VBox>
+                <HBox alignment="BOTTOM_LEFT" layoutX="283.0" layoutY="387.0" prefHeight="50.0" prefWidth="164.0" spacing="5.0" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="5.0">
+                    <children>
+                        <Button fx:id="nyButton" mnemonicParsing="false" onAction="#nyButtonClicked" text="Ny" />
+                        <Button fx:id="redigerButton" mnemonicParsing="false" text="Rediger" />
+                        <Button fx:id="slettButton" mnemonicParsing="false" onAction="#slettButtonClicked" text="Slett" />
+                    </children>
+                </HBox>
+            </children>
+        </AnchorPane>
+    </center>
+    <left>
+        <ListView fx:id="filmListView" prefHeight="536.0" prefWidth="350.0" BorderPane.alignment="CENTER" />
+    </left>
+</BorderPane>
