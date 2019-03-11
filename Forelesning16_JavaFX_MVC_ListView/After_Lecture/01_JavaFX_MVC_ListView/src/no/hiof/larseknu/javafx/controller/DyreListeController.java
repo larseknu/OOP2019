@@ -35,8 +35,8 @@ public class DyreListeController{
     }
 
     public void gaaTilDetaljVisning(ActionEvent actionEvent) {
-        Main main = Main.getInstance();
+        Main minApplikasjon = Main.getInstance();
 
-        main.gaaTilHovedVisning();
+        minApplikasjon.gaaTilHovedVisning();
     }
 }
