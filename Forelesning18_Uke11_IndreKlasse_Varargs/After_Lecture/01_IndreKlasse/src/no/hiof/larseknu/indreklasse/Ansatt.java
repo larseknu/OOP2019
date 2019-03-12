@@ -49,21 +49,21 @@ public class Ansatt {
         private String maaned;
         private double brutto;
         private double netto;
-        private int skatteprosent;
+        private double skatteprosent;
 
         // konstruktør for en lønnsslipp
-        public Lonnsslipp(String maaned, double brutto, int skatteprosent) {
+        public Lonnsslipp(String maaned, double brutto, double skatteprosent) {
             this.maaned = maaned;
             this.brutto = brutto;
             this.skatteprosent = skatteprosent;
             // beregner nettolønnen ved å benytte informasjonen om brutto og skatteprosent
-            this.netto = brutto - ((brutto / 100) * skatteprosent);
+            this.netto = brutto * (1-(skatteprosent / 100));
         }
 
         // overskriver toString så vi får en "fin" utskrift av lønnsslipper
         @Override
         public String toString() {
-            return String.format("%s's lønn for %s \tBrutto: %.0f \tNetto: %.0f)",
+            return String.format("%s's lønn for %s \tBrutto: %.0f \tNetto: %.0f",
                     Ansatt.this.navn, maaned, brutto, netto);
         }
     }
