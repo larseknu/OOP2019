@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"no.hiof.larseknu.game"}]

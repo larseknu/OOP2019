@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"no.hiof.larseknu.game","l":"PlayerCharacter"}]

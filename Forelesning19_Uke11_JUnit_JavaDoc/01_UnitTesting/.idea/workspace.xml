@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bff4af16-863e-4e56-b208-0985d436abfb" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/game/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/game/PlayerCharacter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#891#892#0" expanded="true" />
+                <element signature="e#1117#1118#0" expanded="true" />
+                <element signature="e#1171#1172#0" expanded="true" />
+                <element signature="e#2086#2087#0" expanded="true" />
+                <element signature="e#2115#2116#0" expanded="true" />
+                <element signature="e#2156#2157#0" expanded="true" />
+                <element signature="e#2192#2193#0" expanded="true" />
+                <element signature="e#2221#2222#0" expanded="true" />
+                <element signature="e#2249#2250#0" expanded="true" />
+                <element signature="e#2288#2289#0" expanded="true" />
+                <element signature="e#2322#2323#0" expanded="true" />
+                <element signature="e#2353#2354#0" expanded="true" />
+                <element signature="e#2380#2381#0" expanded="true" />
+                <element signature="e#2420#2421#0" expanded="true" />
+                <element signature="e#2452#2453#0" expanded="true" />
+                <element signature="e#2952#2953#0" expanded="true" />
+                <element signature="e#2983#2984#0" expanded="true" />
+                <element signature="e#3014#3015#0" expanded="true" />
+                <element signature="e#3043#3044#0" expanded="true" />
+                <element signature="e#3084#3085#0" expanded="true" />
+                <element signature="e#3113#3114#0" expanded="true" />
+                <element signature="e#3158#3159#0" expanded="true" />
+                <element signature="e#3188#3189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/game/ProfanityException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+              <folding>
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/no/hiof/larseknu/game/PlayerCharacterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#885#886#0" expanded="true" />
+                <element signature="e#937#938#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/game/ProfanityException.java" />
+        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/game/Main.java" />
+        <option value="$PROJECT_DIR$/src/no/hiof/larseknu/game/PlayerCharacter.java" />
+        <option value="$PROJECT_DIR$/tests/no/hiof/larseknu/game/PlayerCharacterTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1680" />
+    <option name="y" value="-367" />
+    <option name="width" value="2560" />
+    <option name="height" value="1355" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="01_UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_UnitTesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="01_UnitTesting" type="58d84e3e:PackageViewProjectNode" />
+              <item name="01_UnitTesting" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="01_UnitTesting" type="58d84e3e:PackageViewProjectNode" />
+              <item name="01_UnitTesting" type="616d4139:PackageViewModuleNode" />
+              <item name="no.hiof.larseknu.game" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="01_UnitTesting" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="01_UnitTesting" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="01_UnitTesting" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="01_UnitTesting" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="01_UnitTesting" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="01_UnitTesting" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="no.hiof.larseknu.game" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="no.hiof.larseknu.game" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PlayerCharacterTest">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.game.Main" />
+      <module name="01_UnitTesting" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerCharacterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="01_UnitTesting" />
+      <option name="PACKAGE_NAME" value="no.hiof.larseknu.game" />
+      <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.game.PlayerCharacterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerCharacterTest.profanityNicknameCastException (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="01_UnitTesting" />
+      <option name="PACKAGE_NAME" value="no.hiof.larseknu.game" />
+      <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.game.PlayerCharacterTest" />
+      <option name="METHOD_NAME" value="profanityNicknameCastException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerCharacterTest.profanityNicknameCastException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="01_UnitTesting" />
+      <option name="PACKAGE_NAME" value="no.hiof.larseknu.game" />
+      <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.game.PlayerCharacterTest" />
+      <option name="METHOD_NAME" value="profanityNicknameCastException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerCharacterTest.referenceEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="01_UnitTesting" />
+      <option name="PACKAGE_NAME" value="no.hiof.larseknu.game" />
+      <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.game.PlayerCharacterTest" />
+      <option name="METHOD_NAME" value="referenceEquality" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerCharacterTest.shouldIncreaseHealthInExpectedRangeAfterSleeping" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="01_UnitTesting" />
+      <option name="PACKAGE_NAME" value="no.hiof.larseknu.game" />
+      <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.game.PlayerCharacterTest" />
+      <option name="METHOD_NAME" value="shouldIncreaseHealthInExpectedRangeAfterSleeping" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.PlayerCharacterTest" />
+      <item itemvalue="JUnit.PlayerCharacterTest.shouldIncreaseHealthInExpectedRangeAfterSleeping" />
+      <item itemvalue="JUnit.PlayerCharacterTest.profanityNicknameCastException" />
+      <item itemvalue="JUnit.PlayerCharacterTest.profanityNicknameCastException (1)" />
+      <item itemvalue="JUnit.PlayerCharacterTest.referenceEquality" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PlayerCharacterTest" />
+        <item itemvalue="JUnit.PlayerCharacterTest.referenceEquality" />
+        <item itemvalue="JUnit.PlayerCharacterTest.profanityNicknameCastException (1)" />
+        <item itemvalue="JUnit.PlayerCharacterTest.profanityNicknameCastException" />
+        <item itemvalue="JUnit.PlayerCharacterTest.shouldIncreaseHealthInExpectedRangeAfterSleeping" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bff4af16-863e-4e56-b208-0985d436abfb" name="Default Changelist" comment="" />
+      <created>1552551382826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552551382826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PlayerCharacterTest - 2019.03.14 at 10h 16m 12s.xml">
+      <configuration name="PlayerCharacterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerCharacterTest - 2019.03.14 at 10h 16m 57s.xml">
+      <configuration name="PlayerCharacterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerCharacterTest - 2019.03.14 at 10h 17m 09s.xml">
+      <configuration name="PlayerCharacterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerCharacterTest - 2019.03.14 at 10h 17m 22s.xml">
+      <configuration name="PlayerCharacterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerCharacterTest - 2019.03.14 at 10h 18m 08s.xml">
+      <configuration name="PlayerCharacterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerCharacterTest - 2019.03.14 at 10h 18m 22s.xml">
+      <configuration name="PlayerCharacterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerCharacterTest - 2019.03.14 at 10h 30m 17s.xml">
+      <configuration name="PlayerCharacterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerCharacterTest_referenceEquality - 2019.03.14 at 10h 31m 36s.xml">
+      <configuration name="PlayerCharacterTest.referenceEquality" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerCharacterTest_referenceEquality - 2019.03.14 at 10h 31m 53s.xml">
+      <configuration name="PlayerCharacterTest.referenceEquality" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerCharacterTest_referenceEquality - 2019.03.14 at 10h 31m 58s.xml">
+      <configuration name="PlayerCharacterTest.referenceEquality" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="-367" width="2560" height="1355" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16172938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32925835" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32925835" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3422983" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/game/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/game/PlayerCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#2086#2087#0" expanded="true" />
+            <element signature="e#2115#2116#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2192#2193#0" expanded="true" />
+            <element signature="e#2221#2222#0" expanded="true" />
+            <element signature="e#2249#2250#0" expanded="true" />
+            <element signature="e#2288#2289#0" expanded="true" />
+            <element signature="e#2322#2323#0" expanded="true" />
+            <element signature="e#2353#2354#0" expanded="true" />
+            <element signature="e#2380#2381#0" expanded="true" />
+            <element signature="e#2420#2421#0" expanded="true" />
+            <element signature="e#2452#2453#0" expanded="true" />
+            <element signature="e#2952#2953#0" expanded="true" />
+            <element signature="e#2983#2984#0" expanded="true" />
+            <element signature="e#3014#3015#0" expanded="true" />
+            <element signature="e#3043#3044#0" expanded="true" />
+            <element signature="e#3084#3085#0" expanded="true" />
+            <element signature="e#3113#3114#0" expanded="true" />
+            <element signature="e#3158#3159#0" expanded="true" />
+            <element signature="e#3188#3189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/game/ProfanityException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/no/hiof/larseknu/game/PlayerCharacterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
