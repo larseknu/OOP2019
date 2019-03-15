@@ -121,7 +121,6 @@ public class PlayerCharacter {
             throw new ProfanityException(nickName + " contains a bad word that's not allowed");
         else
             this.nickName = nickName;
-        this.nickName = nickName;
     }
 
     public String getNickName() {
