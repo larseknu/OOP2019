@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bff4af16-863e-4e56-b208-0985d436abfb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../01_UnitTesting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_UnitTesting/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_UnitTesting/tests/no/hiof/larseknu/game/PlayerCharacterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_UnitTesting/tests/no/hiof/larseknu/game/PlayerCharacterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/no/hiof/larseknu/game/PlayerCharacterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/no/hiof/larseknu/game/PlayerCharacterTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/game/PlayerCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="122" column="37" selection-start-line="122" selection-start-column="37" selection-end-line="122" selection-end-column="37" />
+            <state relative-caret-position="2304">
+              <caret line="112" column="48" lean-forward="true" selection-start-line="112" selection-start-column="48" selection-end-line="112" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,10 +41,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/no/hiof/larseknu/game/PlayerCharacterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="612">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,8 +76,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1680" />
-    <option name="y" value="-367" />
+    <option name="x" value="1712" />
+    <option name="y" value="-309" />
     <option name="width" value="2560" />
     <option name="height" value="1355" />
   </component>
@@ -85,23 +87,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="01_UnitTesting" type="58d84e3e:PackageViewProjectNode" />
-              <item name="01_UnitTesting" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="01_UnitTesting" type="58d84e3e:PackageViewProjectNode" />
-              <item name="01_UnitTesting" type="616d4139:PackageViewModuleNode" />
-              <item name="no.hiof.larseknu.game" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -124,6 +109,55 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="01_UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_UnitTesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_UnitTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="01_UnitTesting" type="58d84e3e:PackageViewProjectNode" />
+              <item name="01_UnitTesting" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="01_UnitTesting" type="58d84e3e:PackageViewProjectNode" />
+              <item name="01_UnitTesting" type="616d4139:PackageViewModuleNode" />
+              <item name="no.hiof.larseknu.game" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,7 +168,6 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -226,10 +259,10 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.PlayerCharacterTest" />
-      <item itemvalue="JUnit.PlayerCharacterTest.profanityNicknameCastException (1)" />
-      <item itemvalue="JUnit.PlayerCharacterTest.profanityNicknameCastException" />
-      <item itemvalue="JUnit.PlayerCharacterTest.referenceEquality" />
       <item itemvalue="JUnit.PlayerCharacterTest.shouldIncreaseHealthInExpectedRangeAfterSleeping" />
+      <item itemvalue="JUnit.PlayerCharacterTest.profanityNicknameCastException" />
+      <item itemvalue="JUnit.PlayerCharacterTest.profanityNicknameCastException (1)" />
+      <item itemvalue="JUnit.PlayerCharacterTest.referenceEquality" />
     </list>
     <recent_temporary>
       <list>
@@ -284,10 +317,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-367" width="2560" height="1355" extended-state="0" />
+    <frame x="1712" y="-309" width="2560" height="1355" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16573259" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16373098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -313,6 +346,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/game/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/game/ProfanityException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -324,17 +364,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/game/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/game/PlayerCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="122" column="37" selection-start-line="122" selection-start-column="37" selection-end-line="122" selection-end-column="37" />
+        <state relative-caret-position="2304">
+          <caret line="112" column="48" lean-forward="true" selection-start-line="112" selection-start-column="48" selection-end-line="112" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -343,10 +376,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/no/hiof/larseknu/game/PlayerCharacterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="612">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
           </folding>
         </state>
       </provider>
