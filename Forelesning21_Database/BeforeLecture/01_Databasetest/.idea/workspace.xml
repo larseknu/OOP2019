@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a483f8c7-2652-4f1c-b3e5-86ccb66daa15" name="Default Changelist" comment="" />
+    <list default="true" id="a483f8c7-2652-4f1c-b3e5-86ccb66daa15" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../AfterLecture/01_Databasetest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AfterLecture/01_Databasetest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AfterLecture/02_Databasemapping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AfterLecture/02_Databasemapping/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,20 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/databasetest/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="64" column="51" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/databasetest/DyrMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="791">
-              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="264">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -93,22 +84,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="02_Databasemapping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02_Databasemapping" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Databasetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Databasetest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="02_Databasemapping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02_Databasemapping" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="02_Databasemapping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02_Databasemapping" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Databasetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Databasetest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="02_Databasemapping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02_Databasemapping" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Databasetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01_Databasetest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="databasetest" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -123,6 +109,7 @@
     <property name="DatabaseDriversLRU" value="mysql&#10;postgresql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -149,7 +136,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.databasetest.Main" />
-      <module name="02_Databasemapping" />
+      <module name="01_Databasetest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,30 +150,31 @@
       <option name="presentableId" value="Default" />
       <updated>1553154317985</updated>
       <workItem from="1553154321300" duration="363000" />
-      <workItem from="1553154810665" duration="693000" />
+      <workItem from="1553154736030" duration="82000" />
+      <workItem from="1553155939069" duration="114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1056000" />
+    <option name="totallyTimeSpent" value="559000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-367" width="2560" height="1361" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1877502" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1897518" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18130082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18115354" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -195,7 +183,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.16933547" />
+      <window_info anchor="right" id="Database" order="4" weight="0.16933547" />
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
@@ -210,6 +198,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9a7156c2-5ed2-4400-8b10-bd994b6976dd/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/databasetest/DyrMapper.java" />
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/databasetest/Dyr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -217,20 +206,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/databasetest/DyrMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="791">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/databasetest/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="64" column="51" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>

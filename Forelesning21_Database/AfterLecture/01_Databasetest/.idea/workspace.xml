@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a483f8c7-2652-4f1c-b3e5-86ccb66daa15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../02_Databasemapping/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02_Databasemapping/.idea/libraries/mysql_connector_java_8_0_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02_Databasemapping/.idea/libraries/postgresql_42_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02_Databasemapping/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02_Databasemapping/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02_Databasemapping/lib/postgresql-42.2.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Databasemapping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Databasemapping/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +30,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/databasetest/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="325">
               <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
             </state>
           </provider>
@@ -154,12 +149,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553154317985</updated>
       <workItem from="1553154321300" duration="363000" />
-      <workItem from="1553154736030" duration="82000" />
+      <workItem from="1553154736030" duration="609000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="445000" />
+    <option name="totallyTimeSpent" value="972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-367" width="2560" height="1361" extended-state="6" />
@@ -172,7 +167,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18115354" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18115354" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -221,7 +216,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/databasetest/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="325">
           <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
         </state>
       </provider>
