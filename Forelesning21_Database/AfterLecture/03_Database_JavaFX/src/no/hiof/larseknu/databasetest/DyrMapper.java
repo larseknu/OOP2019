@@ -41,7 +41,7 @@ public class DyrMapper {
 
         }
 
-        return new Dyr();
+        return null;
     }
 
     public Dyr hentForsteDyrMedNavn(String dyreNavn) {
@@ -66,7 +66,7 @@ public class DyrMapper {
 
         }
 
-        return new Dyr();
+        return null;
     }
 
     public ArrayList<Dyr> hentAlleDyr() {

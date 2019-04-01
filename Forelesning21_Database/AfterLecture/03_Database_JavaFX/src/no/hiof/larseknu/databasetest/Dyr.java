@@ -7,10 +7,6 @@ public class Dyr {
     private String navn, art;
     private LocalDate fodselsDato;
 
-    public Dyr() {
-        this(0, "", "", LocalDate.MIN);
-    }
-
     public Dyr(int id, String navn, String art, LocalDate fodselsDato) {
         this.id = id;
         this.navn = navn;
