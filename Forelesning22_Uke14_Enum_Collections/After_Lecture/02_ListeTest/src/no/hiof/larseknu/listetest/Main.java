@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         List<String> dyreNavnArrayList = new ArrayList<>();
-        dyreNavnArrayList.add("HonningGrevnling(Nils)");
+        dyreNavnArrayList.add("HonningGrevling(Nils)");
         dyreNavnArrayList.add("Panda(Trine)");
         dyreNavnArrayList.add("Sjimpanse(Arne)");
         dyreNavnArrayList.add("Katt(Misti)");
@@ -17,7 +17,7 @@ public class Main {
         System.out.println(dyreNavnArrayList);
 
         List<String> dyreNavnLinkedList = new LinkedList<String>();
-        dyreNavnLinkedList.add("HonningGrevnling(Nils)");
+        dyreNavnLinkedList.add("HonningGrevling(Nils)");
         dyreNavnLinkedList.add("Panda(Trine)");
         dyreNavnLinkedList.add("Sjimpanse(Arne)");
         dyreNavnLinkedList.add("Katt(Misti)");
@@ -72,6 +72,9 @@ public class Main {
         long sluttTid = System.currentTimeMillis();
 
         // Skriver ut tiden vi brukte
-        System.out.println("Tiden det tok å legge til " + antallTallViSkalLeggeTil + " elementer i " + (leggeTilISluttenAvListen? "slutten": (posisjonViSkalLeggeTilElementerI==0?"begynnelsen":"midten")) + " av en "+ listeViSkalLeggeTilTallI.getClass().getSimpleName() + ": " + (sluttTid - startTid) + " ms");
+        System.out.println("Tiden det tok å legge til " + antallTallViSkalLeggeTil + " elementer i " +
+                    (leggeTilISluttenAvListen? "slutten": (posisjonViSkalLeggeTilElementerI==0?"begynnelsen":"midten")) +
+                    " av en "+ listeViSkalLeggeTilTallI.getClass().getSimpleName() +
+                    ": " + (sluttTid - startTid) + " ms");
     }
 }

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4aaff02-4942-4eda-a970-39d0570c31a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Forelesning11_Abstract_Final_Exception/After_Lecture/03_Dyrepark_Exception/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Forelesning11_Abstract_Final_Exception/After_Lecture/03_Dyrepark_Exception/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_Dyrepark_Exception/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Dyrepark_Exception/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/listetest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/listetest/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +18,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/listetest/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+            <state relative-caret-position="161">
+              <caret line="27" selection-start-line="27" selection-end-line="43" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2831#3070#1" />
               </folding>
             </state>
           </provider>
@@ -29,7 +31,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -50,6 +52,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="02_ListeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02_ListeTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02_ListeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02_ListeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
@@ -62,22 +80,6 @@
               <item name="02_ListeTest" type="58d84e3e:PackageViewProjectNode" />
               <item name="02_ListeTest" type="616d4139:PackageViewModuleNode" />
               <item name="no.hiof.larseknu.listetest" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="02_ListeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02_ListeTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="02_ListeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02_ListeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,17 +137,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-367" width="2560" height="1360" extended-state="6" />
+    <frame x="1680" y="-367" width="2560" height="1361" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1561249" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15772618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Learn" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969603" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290008" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -166,10 +169,11 @@
     <entry file="jrt://C:/Program Files/Java/jdk-11.0.2!/java.base/java/util/List.class" />
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/listetest/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state relative-caret-position="161">
+          <caret line="27" selection-start-line="27" selection-end-line="43" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2831#3070#1" />
           </folding>
         </state>
       </provider>
