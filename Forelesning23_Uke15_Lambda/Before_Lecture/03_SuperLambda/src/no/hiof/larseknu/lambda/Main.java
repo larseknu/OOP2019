@@ -15,11 +15,11 @@ public class Main {
         apexx.add(new Superhero("Lifeline", "Ajay Che", 24));
         apexx.add(new Superhero("Gibraltar", "Makao Gibralter", 30));
         apexx.add(new Superhero("Caustic", "Alexander Nox", 48));
-        apexx.add(new Superhero("Bloodhound", "Unknown", -1));
+        apexx.add(new Superhero("Bloodhound", "Unknown"));
         apexx.add(new Superhero("Mirage", "Elliott Witt", 30));
         apexx.add(new Superhero("Octane", "Octavio Silva", 24));
-        apexx.add(new Superhero("Pathfinder", "MRVN", -1));
-        apexx.add(new Superhero("Wraith", "Redacted", -1));
+        apexx.add(new Superhero("Pathfinder", "MRVN"));
+        apexx.add(new Superhero("Wraith", "Redacted"));
 
 
     }

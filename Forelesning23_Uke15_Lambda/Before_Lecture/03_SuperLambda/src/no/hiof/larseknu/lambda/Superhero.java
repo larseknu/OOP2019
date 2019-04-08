@@ -4,6 +4,11 @@ public class Superhero {
     private String name, realName;
     private int age;
 
+
+    public Superhero(String name, String realName) {
+        this(name, realName, 0);
+    }
+
     public Superhero(String name, String realName, int age) {
         this.name = name;
         this.realName = realName;
@@ -36,6 +41,6 @@ public class Superhero {
 
     @Override
     public String toString() {
-        return name + " - " + realName + " - " + (age == -1 ? "Unknown" : age);
+        return name + " - " + realName + " - " + (age == 0 ? "Unknown" : age);
     }
 }
